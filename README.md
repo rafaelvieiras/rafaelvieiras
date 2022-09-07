@@ -1,6 +1,6 @@
 # Hello 👋
 
-Read this in other languages: [Português](./REAME.pt-BR.md).
+Read this in other languages: [Português](./README.pt-BR.md).
 
 *I'm Rafael!* - I'm a fullcycle developer!
 

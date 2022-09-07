@@ -1,6 +1,6 @@
 # Olá 👋
 
-Read this in other languages: [Português](./REAME.pt-BR.md).
+Read this in other languages: [English](./README.md).
 
 *Eu sou o Rafael!* - Sou um desenvolvedor fullcycle!
 
