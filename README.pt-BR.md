@@ -1,10 +1,10 @@
-# Hello 👋
+# Olá 👋
 
 Read this in other languages: [Português](./REAME.pt-BR.md).
 
-*I'm Rafael!* - I'm a fullcycle developer!
+*Eu sou o Rafael!* - Sou um desenvolvedor fullcycle!
 
-[![My Skills](https://skills.thijs.gg/icons?i=ts,js,html,css,angular,docker,react,nextjs,nestjs,nodejs,php,ruby,vue,flutter)](https://skills.thijs.gg)
+[![Minhas Habilidades](https://skills.thijs.gg/icons?i=ts,js,html,css,angular,docker,react,nextjs,nestjs,nodejs,php,ruby,vue,flutter)](https://skills.thijs.gg)
 
 <!--
 **rafaelvieiras/rafaelvieiras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
