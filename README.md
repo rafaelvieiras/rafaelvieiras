@@ -37,9 +37,9 @@
 
 ## Achievements & Recognition 🏆
 
-- First place in the Paraná (Brazilian State) tech versatility award.
+- Third place in the award for Startups with the greatest potential in Paraná (Brazilian State).
 - Created a platform that aids students in studying for ENEM (Brazilian National High School Exam).
-- Recognized for leading startups with high growth potential in Paraná (Brazilian State).
+- Performance and Leadership in high-growth Startups in Paraná. (Brazilian State).
 
 ## Work Experience 👨‍💻
 
