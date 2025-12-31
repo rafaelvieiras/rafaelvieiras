@@ -6,20 +6,20 @@
 
 **Languages**
 
-[![Languages](https://skills.thijs.gg/icons?i=ts,js,html,css,php,ruby,dart,go)](https://skills.thijs.gg)
+[![Languages](https://skillicons.dev/icons?i=ts,js,html,css,php,ruby,dart,go)](https://skills.thijs.gg)
 
 **Frameworks/Libs**
 
-[![Frameworks/Libs](https://skills.thijs.gg/icons?i=angular,react,nodejs,rails,nextjs,nestjs,vue,flutter)](https://skills.thijs.gg)
+[![Frameworks/Libs](https://skillicons.dev/icons?i=angular,react,nodejs,rails,nextjs,nestjs,vue,flutter)](https://skills.thijs.gg)
 
 **Tools**
 
-[![Tools](https://skills.thijs.gg/icons?i=docker,vscode,vercel)](https://skills.thijs.gg)
+[![Tools](https://skillicons.dev/icons?i=docker,vscode,vercel)](https://skills.thijs.gg)
 
 ## My GitHub Contributions 📈
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaelvieiras&count_private=true&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelvieiras&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats-orpin-three-45.vercel.app/api?username=rafaelvieiras&count_private=true&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats-orpin-three-45.vercel.app/api/top-langs/?username=rafaelvieiras&layout=compact&theme=dark)
 
 ## Featured Projects 🌟
 
